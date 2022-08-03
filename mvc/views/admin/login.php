@@ -47,7 +47,7 @@
                                             }else{
                                         ?>
                                             <div class="form-group">
-                                            <label class="small mb-1" for="inputEmailAddress"> USERNAME </label>
+                                            <label class="small mb-1" for="inputEmailAddress"> USERNAMES </label>
                                             <input class="form-control py-4" id="username" name="username"  type="text" />
                                         </div>
                                         <?php
